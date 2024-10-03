@@ -1,3 +1,15 @@
+Naan Mudhalvan 
+IBM Project
+Media Streaming With IBM Artificial intelligence 
+
+
+
+Name: sureka
+Register No: 723621104044
+Year: III
+Semester : V
+
+
 Predicting house prices using machine learning is a common task in the field of real estate and finance. There are several machine learning algorithms that can be used for this purpose, including linear regression, decision trees, random forests, and gradient boosting methods. Here is a general outline of the steps involved in predicting house prices using machine learning:
 
 1. **Data collection**: Gather a dataset that contains information about houses and their corresponding prices. This data can include features such as the number of bedrooms, bathrooms, square footage, location, and other relevant information.
